@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/three-column-preview-card-PoUvfsXgu_)
 - Live Site URL: [Live site](https://julianchoripan.github.io/FM-three-column-preview-card)
 
 ## My process
